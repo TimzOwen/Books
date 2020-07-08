@@ -10,7 +10,7 @@ import java.util.Scanner;
 import javax.net.ssl.HttpsURLConnection;
 
 public class ApiUtil {
-    private ApiUtil() {}
+    private ApiUtil() {};
 
     public static final String BASE_API_KEY =
             "https://www.googleapis.com/books/v1/volumes";
